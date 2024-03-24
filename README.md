@@ -1,3 +1,9 @@
-This is my first python project as a novice. 
-Using Sales data and various python libraries, fuctions  made some analysis & charts in python.
-Feel free to give feedbacks and suggest some new lessons and projects.
+On the path to master DATA ANALYTICS tools.
+Check out some of the projects i've uploaded.
+
+Feel free to give feedbacks, which will help me to get better.
+
+
+Suggest new project ideas i can work on.
+
+
